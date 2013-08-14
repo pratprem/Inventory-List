@@ -10,7 +10,7 @@ ICs can do many things, we may need to create additional subfolders after the pa
 4. LM1458N - Dual Operational Amplifier - [datasheet](http://www.ti.com/lit/ds/symlink/lm1558.pdf)
 5. LM384 - 5W Audio Power Amplifier - [datasheet](http://www.ti.com/lit/ds/symlink/lm384.pdf)
 6. HCF4020BE - Ripple-Carry Binary Counter/Dividers - [datasheet](http://pdf1.alldatasheet.com/datasheet-pdf/view/22332/STMICROELECTRONICS/HCF4020BEY.html)
-7. 
+7. TIP32A - PNP Power Transistor - [datasheet](http://www.st.com/web/en/resource/technical/document/datasheet/CD00145627.pdf)
 
 
                                                                                                              
