@@ -9,7 +9,8 @@ ICs can do many things, we may need to create additional subfolders after the pa
 3. KA7H24A - 1 Amp Positive Voltage Regulator - [datasheet](http://pdf1.alldatasheet.com/datasheet-pdf/view/99461/FAIRCHILD/KA7824A.html)
 4. LM1458N - Dual Operational Amplifier - [datasheet](http://www.ti.com/lit/ds/symlink/lm1558.pdf)
 5. LM384 - 5W Audio Power Amplifier - [datasheet](http://www.ti.com/lit/ds/symlink/lm384.pdf)
-6. 
+6. HCF4020BE - Ripple-Carry Binary Counter/Dividers - [datasheet](http://pdf1.alldatasheet.com/datasheet-pdf/view/22332/STMICROELECTRONICS/HCF4020BEY.html)
+7. 
 
 
                                                                                                              
