@@ -12,6 +12,8 @@ ICs can do many things, we may need to create additional subfolders after the pa
 6. HCF4020BE - Ripple-Carry Binary Counter/Dividers - [datasheet](http://pdf1.alldatasheet.com/datasheet-pdf/view/22332/STMICROELECTRONICS/HCF4020BEY.html)
 7. TIP32A - PNP Power Transistor - [datasheet](http://www.st.com/web/en/resource/technical/document/datasheet/CD00145627.pdf)
 8. TIP31A - NPN Bipolar Junction Transistor - [datasheet](http://en.wikipedia.org/wiki/TIP31)
+9. CD4543BE - BCD (bad conduct discharge)-to-seven-segment latch/decoder/driver for liquid-crystal display - [datasheet](http://www.mouser.com/ds/2/405/schs086d-127331.pdf)
+10. CO47212 - Decoder/Demultiplexer splits into 8 outputs from one input - 
 
 
                                                                                                              
