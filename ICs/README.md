@@ -1,4 +1,4 @@
-ICs
+ICs 
 ===
 
 ICs can do many things, we may need to create additional subfolders after the parts are initially described.
@@ -19,7 +19,8 @@ ICs can do many things, we may need to create additional subfolders after the pa
 13. SAA6579 - RDS(Radio Data System) helps read radio signals - [datasheet](http://www.futurlec.com/Philips/SAA6579.shtml)
 14. NE556N - Dual Precision Timer - [datasheet](http://html.alldatasheet.com/html-pdf/27254/TI/NE556N/20/1/NE556N.html)
 15. CD4027AE - used for registering data and toggling - [datasheet](http://www.datasheetarchive.com/CD4027AE-datasheet.html)
-16. CD4081BE - 
+16. LP2951 - bipolar low voltage dropout - [datasheet](http://www.ti.com/product/lp2951)
+17. H11AX - 
 
 
                                                                                                              
