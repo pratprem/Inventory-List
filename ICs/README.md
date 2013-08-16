@@ -16,7 +16,7 @@ ICs can do many things, we may need to create additional subfolders after the pa
 10. 74F138N - Decoder/Demultiplexer splits into 8 outputs from one input - [datasheet](http://html.alldatasheet.com/html-pdf/15362/PHILIPS/I74F138N/499/2/I74F138N.html)
 11. HCF4050BE - Hex buffer that alllows you to put in more voltage or lower the voltage (eg 5AV-3.3V) - [datasheet](http://www.datasheetarchive.com/HCF4050BE-datasheet.html)
 12. HEF4017BP - 5 Stage Johnson counter that groups things in numbers of 10 - [datasheet](http://html.alldatasheet.com/html-pdf/17686/PHILIPS/HEF4017BP/501/2/HEF4017BP.html)
-13. SAA6579 - RDS(Radio Data System) helps read radio signal - [datasheet](http://www.futurlec.com/Philips/SAA6579.shtml)
+13. SAA6579 - RDS(Radio Data System) helps read radio signals - [datasheet](http://www.futurlec.com/Philips/SAA6579.shtml)
 14. NE556N - Dual Precision Timer - [datasheet](http://html.alldatasheet.com/html-pdf/27254/TI/NE556N/20/1/NE556N.html)
 15. CD4027AE - used for registering data and toggling - [datasheet](http://www.datasheetarchive.com/CD4027AE-datasheet.html)
 16. CD4081BE - 
