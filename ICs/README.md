@@ -21,6 +21,8 @@ ICs can do many things, we may need to create additional subfolders after the pa
 15. CD4027AE - used for registering data and toggling - [datasheet](http://www.datasheetarchive.com/CD4027AE-datasheet.html)
 16. LP2951 - bipolar low voltage dropout - [datasheet](http://www.ti.com/product/lp2951)
 17. H11AX - 
+18. L298N - Dual Full-Bridge Driver - [datasheet](https://www.sparkfun.com/datasheets/Components/General/L298N.pdf)
+19. L297 - Stepper Motor Controller = [datasheet](http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000063.pdf)
 
 
                                                                                                              
